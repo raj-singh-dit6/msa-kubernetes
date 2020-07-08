@@ -1,0 +1,8 @@
+com\nagp\msa\aggregator\service\UserOrdersServiceImpl.class
+com\nagp\msa\aggregator\controller\UserOrdersController.class
+com\nagp\msa\aggregator\dto\OrdersDto.class
+com\nagp\msa\aggregator\dto\OrderDto.class
+com\nagp\msa\aggregator\service\UserOrdersService.class
+com\nagp\msa\aggregator\dto\UserOrdersDto.class
+com\nagp\msa\aggregator\AggregatorApplication.class
+com\nagp\msa\aggregator\dto\UserDto.class
